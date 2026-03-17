@@ -1,0 +1,41 @@
+{
+  "files": {
+    "main.css": "/static/css/main.2223090e.css",
+    "main.js": "/static/js/main.cc465f1f.js",
+    "static/js/453.20f447ae.chunk.js": "/static/js/453.20f447ae.chunk.js",
+    "static/media/LoginImg.png": "/static/media/LoginImg.296ad6751e10602ce9c2.png",
+    "static/media/hero-2.png": "/static/media/hero-2.12b0d8ea4fb63911c1fe.png",
+    "static/media/bg.jpg": "/static/media/bg.ac5237841ce77dfce589.jpg",
+    "static/media/pro.png": "/static/media/pro.7acdf5787a94fd87f3c6.png",
+    "static/media/reviews.jpg": "/static/media/reviews.f108bb20e900476607cd.jpg",
+    "static/media/bootstrap-icons.woff?": "/static/media/bootstrap-icons.1295669cd4e305c97f2c.woff",
+    "static/media/ChatGPT Image Jan 23, 2026, 08_13_37 PM (1).png": "/static/media/ChatGPT Image Jan 23, 2026, 08_13_37 PM (1).0a2878469164c476ca29.png",
+    "static/media/bootstrap-icons.woff2?": "/static/media/bootstrap-icons.92ea18a81d737146ff04.woff2",
+    "static/media/e-shop.png": "/static/media/e-shop.dac6ba5fdcaa0e881a5e.png",
+    "static/media/hero-1.jpg": "/static/media/hero-1.c176491a87d1cc685bd3.jpg",
+    "static/media/about-1.jpg": "/static/media/about-1.6a11f18669cd4e578689.jpg",
+    "static/media/p2.jpg": "/static/media/p2.5c050973b06f89054286.jpg",
+    "static/media/logo.png": "/static/media/logo.115c7cdc5df109ada30f.png",
+    "static/media/p1.jpg": "/static/media/p1.e3f5d9bc93edae9a6a7e.jpg",
+    "static/media/review-author-1.jpg": "/static/media/review-author-1.c9fbfaaec6753d1a49c7.jpg",
+    "static/media/review-author-3.jpg": "/static/media/review-author-3.26b26869dff97a0ebfe5.jpg",
+    "static/media/pizza.png": "/static/media/pizza.7758b9dc4f032645391f.png",
+    "static/media/review-author-2.jpg": "/static/media/review-author-2.8e545a136982aef12552.jpg",
+    "static/media/banner-1.jpg": "/static/media/banner-1.fa41087ca7df9695611e.jpg",
+    "static/media/review-author-5.jpg": "/static/media/review-author-5.1d8dc28ff3b643d917c1.jpg",
+    "static/media/brand-17.png": "/static/media/brand-17.c27fb50af314cacdbd69.png",
+    "static/media/salad.png": "/static/media/salad.168b7c6816a63856002c.png",
+    "static/media/delivery-bike.png": "/static/media/delivery-bike.dccfe10cedb865f67bde.png",
+    "static/media/brand-18.png": "/static/media/brand-18.4cef037539afb5faa525.png",
+    "static/media/brand-15.png": "/static/media/brand-15.aca9a73f96179d3495e4.png",
+    "static/media/brand-16.png": "/static/media/brand-16.39e872b117651240bc57.png",
+    "index.html": "/index.html",
+    "main.2223090e.css.map": "/static/css/main.2223090e.css.map",
+    "main.cc465f1f.js.map": "/static/js/main.cc465f1f.js.map",
+    "453.20f447ae.chunk.js.map": "/static/js/453.20f447ae.chunk.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.2223090e.css",
+    "static/js/main.cc465f1f.js"
+  ]
+}
